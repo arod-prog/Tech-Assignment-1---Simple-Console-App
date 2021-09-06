@@ -6,7 +6,7 @@ namespace Tech_Assignment_1___Simple_Console_App
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("The eye only sees what the mind is ready to comprehend.");
         }
     }
 }
